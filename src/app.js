@@ -4,14 +4,11 @@ import SubComponent from './components/SubComponent';
 
 
 
-function App() {
-
+  
+function App(){
   return (
-    <div className='app-container'>
-      <h3>first component</h3>
-      <p>this is a p tag</p>
-    </div>
-  );
-}
+    <SubComponent/>
+  )
+};
 
 export default App;

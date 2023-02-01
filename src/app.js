@@ -1,4 +1,9 @@
 import './app.css'
+
+import SubComponent from './components/subcomponent';
+
+
+
 function App() {
 
   return (

@@ -1,6 +1,6 @@
 import './app.css'
 
-import SubComponent from './components/subcomponent';
+import SubComponent from './components/SubComponent';
 
 
 

@@ -6,7 +6,8 @@
   padding: 0, 5rem;
   margin: 1rem 0;
   border-radius: 12px;
-  background-color: #34495e;
+  background-color: #174a7d;
+  color: white;
 }
 
 .expence-item__description {
@@ -20,7 +21,7 @@
 }
 
 .expence-item h2 {
-  color: #3a3a3a;
+  color: #df0a0a;
   font-size: 1rem;
   flex: 1;
   margin: 0 1rem;
@@ -33,7 +34,7 @@
     font-size: 1rem;
     font-weight: bold;
     color: white;
-    background-color: #30336b;
+    background-color: #61bc12;
     border: 1px solid white;
     padding: 0.5rem;
     border-radius: 12px;

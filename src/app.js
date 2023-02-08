@@ -1,8 +1,8 @@
 import React from "react";
 import Expences from "./components/Expences/Expences";
+import NewExpence from "./components/NewExpences/NewExpence";
 
-
- const App = () => {
+const App = () => {
   let expence = [
     {
       id: "e1",
@@ -31,10 +31,10 @@ import Expences from "./components/Expences/Expences";
   ];
   return (
     <div>
-      <h2>Lets Get Started</h2>
-      <Expences item={expence}/>
+      <NewExpence />
+      <Expences item={expence} />
     </div>
   );
-}
+};
 
 export default App;

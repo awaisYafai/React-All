@@ -22,16 +22,16 @@
 
 .new-expence button:hover,
 .new-expence button:active {
-    background-color: #510674;
-    border-color: #510674;
+  background-color: #510674;
+  border-color: #510674;
 }
 
-.new-expence button.alternative{
-    color: #220131;
-    border-color: transparent;
+.new-expence button.alternative {
+  color: #220131;
+  border-color: transparent;
 }
 
 .new-expence button.alternative:hover,
-.new-expence button.alternative:active{
-    background-color: #ddb3f8;
+.new-expence button.alternative:active {
+  background-color: #ddb3f8;
 }

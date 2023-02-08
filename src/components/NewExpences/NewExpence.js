@@ -1,12 +1,14 @@
-import React from 'react';
+import React from "react";
 
-import './NewExpence.css';
+import "./NewExpence.css";
 
-const NewExpence = ()=>{
-return(
-    <div className='new-expence'>
-        <form></form>
+import ExpenceForm from "./ExpenceForm";
+
+const NewExpence = () => {
+  return (
+    <div className="new-expence">
+      <ExpenceForm />
     </div>
-)
-}
+  );
+};
 export default NewExpence;
